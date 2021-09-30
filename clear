@@ -1,0 +1,107 @@
+[33mcommit 2c622bec33b90840661a8d1ab7060939a985fd21[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: dazevedc <dazevedc@everis.com>
+Date:   Thu Sep 30 10:46:59 2021 -0300
+
+    troquei leite por agua
+
+[1mdiff --git a/receitaBolo.txt b/receitaBolo.txt[m
+[1mindex 45e99f1..8ae42c7 100644[m
+[1m--- a/receitaBolo.txt[m
+[1m+++ b/receitaBolo.txt[m
+[36m@@ -2,7 +2,7 @@[m [mIngredientes[m
+ [m
+ 3 ovos[m
+ [m
+[31m-1/2 copo de leite[m
+[32m+[m[32m1/2 copo de agua[m
+ [m
+ 1/2 copo de óleo[m
+ [m
+
+[33mcommit d12b29731913c154144d4745c4d3e6b4c9f74aa0[m
+Author: dazevedc <dazevedc@everis.com>
+Date:   Thu Sep 30 10:45:33 2021 -0300
+
+    primeiro commit
+
+[1mdiff --git a/da b/da[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8c9c71b[m
+[1m--- /dev/null[m
+[1m+++ b/da[m
+[36m@@ -0,0 +1,22 @@[m
+[32m+[m[32mdiff.astextplain.textconv=astextplain[m
+[32m+[m[32mfilter.lfs.clean=git-lfs clean -- %f[m
+[32m+[m[32mfilter.lfs.smudge=git-lfs smudge -- %f[m
+[32m+[m[32mfilter.lfs.process=git-lfs filter-process[m
+[32m+[m[32mfilter.lfs.required=true[m
+[32m+[m[32mhttp.sslbackend=openssl[m
+[32m+[m[32mhttp.sslcainfo=C:/Users/dazevedc/AppData/Local/Programs/Git/mingw64/ssl/certs/ca-bundle.crt[m
+[32m+[m[32mcore.autocrlf=true[m
+[32m+[m[32mcore.fscache=true[m
+[32m+[m[32mcore.symlinks=false[m
+[32m+[m[32mpull.rebase=false[m
+[32m+[m[32mcredential.helper=manager-core[m
+[32m+[m[32mcredential.https://dev.azure.com.usehttppath=true[m
+[32m+[m[32minit.defaultbranch=master[m
+[32m+[m[32mcore.repositoryformatversion=0[m
+[32m+[m[32mcore.filemode=false[m
+[32m+[m[32mcore.bare=false[m
+[32m+[m[32mcore.logallrefupdates=true[m
+[32m+[m[32mcore.symlinks=false[m
+[32m+[m[32mcore.ignorecase=true[m
+[32m+[m[32muser.name=dazevedc[m
+[32m+[m[32muser.email=dazevedc@everis.com[m
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..96bcd39[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,15 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <title>Cursos da Alura</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m    <ul>[m
+[32m+[m[32m        <li>Vagrant</li>[m
+[32m+[m[32m        <li>Docker</li>[m
+[32m+[m[32m        <li>Ansible</li>[m
+[32m+[m[32m        <li>Integração Continua</li>[m
+[32m+[m[32m    </ul>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/receitaBolo.txt b/receitaBolo.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..45e99f1[m
+[1m--- /dev/null[m
+[1m+++ b/receitaBolo.txt[m
+[36m@@ -0,0 +1,24 @@[m
+[32m+[m[32mIngredientes[m
+[32m+[m
+[32m+[m[32m3 ovos[m
+[32m+[m
+[32m+[m[32m1/2 copo de leite[m
+[32m+[m
+[32m+[m[32m1/2 copo de óleo[m
+[32m+[m
+[32m+[m[32m1 e 1/2 xícara (chá) de açúcar[m
+[32m+[m
+[32m+[m[32m1 xícara (chá) de farinha de trigo[m
+[32m+[m
+[32m+[m[32m2 xícaras (chá) de fubá[m
+[32m+[m
+[32m+[m[32m1 colher (sopa) cheia de fermento químico[m
+[32m+[m
+[32m+[m[32mModo de preparo[m
+[32m+[m[32mBata os ovos no liquidificador por 3 minutos (para tirar o cheiro).[m
+[32m+[m[32mAdicione o leite e o óleo e bata mais.[m
+[32m+[m[32mAos poucos, acrescente o açúcar e bata bem.[m
+[32m+[m[32mTransfira para uma tigela e incorpore a farinha, o fubá e o fermento.[m
+[32m+[m[32mDespeje em fôrma de cone central untada e enfarinhada.[m
+[32m+[m[32mAsse em forno médio preaquecido (180 ºC) por cerca de 40 minutos ou até dourar.[m
+[32m+[m[32mDesenforme morno e deixe esfriar.[m
+\ No newline at end of file[m
